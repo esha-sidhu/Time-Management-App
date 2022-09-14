@@ -1,9 +1,7 @@
 //
 //  AppDelegate.swift
-//  TimeManagement
-//
-//  Created by Esha Sidhu on 9/7/18.
-//  Copyright © 2018 Esha Sidhu. All rights reserved.
+//  HSTM
+//  Created by Esha Sidhu
 //
 
 import UIKit
